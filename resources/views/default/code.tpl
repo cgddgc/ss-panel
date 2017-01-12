@@ -3,8 +3,8 @@
     <div class="container">
         <br><br>
         <div class="row center">
-            <h5>邀请码实时刷新</h5>
-            <h5>如遇到无邀请码请找已经注册的用户获取。</h5>
+           
+           <h5>获取邀请码请联系qq626723327.</h5>
             {$msg}
         </div>
     </div>
